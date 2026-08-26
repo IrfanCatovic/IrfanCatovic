@@ -1,6 +1,6 @@
 # Irfan Catovic
 
-### Full-Stack Developer | Go, Node.js, React, Next.js, PostgreSQL
+### Full-Stack Developer | Go, Node.js, React, Next.js, PostgreSQL, MongoDB
 
 I build reliable web applications and backend systems, from database design and business logic to REST APIs and responsive user interfaces.
 
